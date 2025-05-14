@@ -1,0 +1,24 @@
+header {
+    background-color: pink;
+
+}
+
+section {
+background-color: blue;
+color: white;
+
+}
+
+p {
+    background-color: green;
+}
+
+a {
+    background-color: brown;
+}
+
+div {
+    width: 250px;
+    height: 250px;
+    background-color: black;
+}
