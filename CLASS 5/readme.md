@@ -1,0 +1,1 @@
+se tu colocar auto ele vai pra direita e pra esquerda

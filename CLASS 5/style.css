@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
+
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 91vh;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+div {
+    margin: auto auto;
+    padding: 100px;
+    height: 100px;
+    width: 100px;
+    border: 5px solid blue;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Kalam' , sans-serif;
+}
+
+button {
+    padding: 10px;
+    border-radius: 10px;
+    transition: 1000ms;
+}
+
+button:hover{
+    background-color: red;
+    color: aqua;
+}
+
