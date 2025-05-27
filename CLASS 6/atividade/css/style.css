@@ -1,5 +1,6 @@
 h1 {
  text-align: center;
+ font-family: Arial, sans-serif;
 }
 
 div {
@@ -8,12 +9,28 @@ div {
     height: 100px;
     width: 1000px;
     background-color: rgb(0, 0, 0);
+    margin-bottom: 20px; /* espaço abaixo */
+    border-radius: 7px;
+}
+
+.numeros {
+    color: #febe01;
 }
 
 h2 {
     color: white;
+    font-family: Arial, sans-serif;
 }
 
 p {
-    color: white;
+    color: rgb(192, 192, 192);
+    font-family: Arial, sans-serif;
 }
+
+button {
+    border-radius: 7px;
+    background-color: #febe01;
+    height: 40px;
+    width: 150px
+}
+
